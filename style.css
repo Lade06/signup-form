@@ -71,3 +71,17 @@ button{
     margin-top: 30px;
     font-size: 12px;
 }
+@media only screen and (max-width: 375px) {
+    body {
+      background-color: lightblue;
+      font-size: 16px;
+      width: 100%;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+      font-size: 16px;
+      width: 100%;
+    }
+}
